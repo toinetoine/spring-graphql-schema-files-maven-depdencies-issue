@@ -1,0 +1,4 @@
+type Query {
+    greeting: String
+    getAnimal(name: String): Animal
+}
